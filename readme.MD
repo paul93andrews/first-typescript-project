@@ -1,3 +1,3 @@
 # First TypeScript Project
 
-## Messing around and learning TypeScript through this project
+Messing around and learning TypeScript through this project
